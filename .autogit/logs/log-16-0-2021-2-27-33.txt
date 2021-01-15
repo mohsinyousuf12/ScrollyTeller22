@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jan 16 2021 02:27:33 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-16-0-2021-1-57-4.txt
+
+
+Deleted files:
+
+
+Renamed files:
